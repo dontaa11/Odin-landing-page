@@ -1,0 +1,102 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.all {
+  width: 550px;
+  height: auto;
+  margin: 100px auto;
+  font-weight: bold;
+}
+
+.head {
+  color: rgba(0, 0, 255, 0.614);
+  font-size: 1.5rem;
+  background-color: white;
+}
+
+.head, 
+.container, 
+.last, 
+.white {
+  padding: 10px;
+}
+
+
+.container {
+  background-color: rgb(11, 2, 54);
+}
+
+.holder,
+.secondary,
+.footers {
+  margin-bottom: 20px;
+}
+
+.holder {
+  color: white;
+  font-size: 0.8rem;
+}
+
+.second {
+  font-weight: 600;
+  font-size: 1.2rem;
+  font-family: Roboto;
+}
+
+.forth {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.sixth {
+  font-weight: 900;
+  font-size: 2.3rem;
+}
+
+.tenth {
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+.color {
+  color: rgba(0, 0, 255, 0.614);
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+
+.scolor {
+  font-weight: 900;
+  font-size: 2rem;
+  color: black;
+}
+
+.last {
+  background-color: lightgray;
+}
+
+.lcolor {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.llcolor {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.end {
+  margin-bottom: 0;
+}
