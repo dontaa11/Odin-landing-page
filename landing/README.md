@@ -13,4 +13,4 @@ The project practices **HTML** and **CSS (Flexbox)** to create a clean layout.
 ## Getting Started
 Open `index.html` in your browser to view the page.
 
-![My landing page] (../images/landing.png)
+![My landing page](../images/landing.png)
