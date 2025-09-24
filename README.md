@@ -14,3 +14,11 @@ The project practices **HTML** and **CSS (Flexbox)** to create a clean layout.
 Open `index.html` in your browser to view the page.
 
 ![My landing page](../images/landing.png)
+
+# Odin Color and Font project
+
+A simple page for imitating the projexct given by the Odin couse.
+
+The project uses HTML and CSS to build this simple page.
+
+![MY color and font page](../images/color.png)
